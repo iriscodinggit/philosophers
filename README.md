@@ -7,7 +7,7 @@ This project has taught me about **multithreading, mutexes, and deadlock prevent
 
 ## 📚 What Is This?
 
-In this project, you'll simulate the **Dining Philosophers Problem**, a classic concurrency problem in computer science. Imagine five philosophers 🧘‍♂️🧘‍♀️ sitting at a round table. Each needs two forks 🍴 to eat spaghetti 🍝 — but there are only five forks!
+In this project, you'll simulate the **Dining Philosophers Problem**, a classic concurrency problem in computer science. Imagine five philosophers 🧘‍♂️🧘‍♀️ sitting at a round table. Each needs two forks to eat spaghetti — but there are only five forks!
 
 Sounds simple? Think again.  
 This project tackles the big questions of:
