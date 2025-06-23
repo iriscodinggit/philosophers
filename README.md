@@ -1,4 +1,4 @@
-# 💭 Philosophers 42 Project | Dining Philosophers 🍝🍴
+# 💭 Philosophers Project | Dining Philosophers
 
 Welcome to my **Philosophers** project!  
 This project has taught me about **multithreading, mutexes, and deadlock prevention** 🍽️.
@@ -27,6 +27,8 @@ Example:
 
 `./philo 5 800 200 200`
 
-"I eat, therefore I am." — Descartes, probably
-"To fork or not to fork." — Shakespeare, definitely not
-"Concurrency is hard." — You, after this project 😅
+"I eat, therefore I am." — Descartes
+
+"To fork or not to fork." — Shakespeare
+
+"Concurrency is hard." — You, after this project xD
