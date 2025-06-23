@@ -1,4 +1,4 @@
-# 🧠💭 Philosophers 42 Project | Dining Philosophers 🍝🍴
+# 💭 Philosophers 42 Project | Dining Philosophers 🍝🍴
 
 Welcome to my **Philosophers** project!  
 This project has taught me about **multithreading, mutexes, and deadlock prevention** 🍽️.
