@@ -20,12 +20,12 @@ This project tackles the big questions of:
 
 ## 🧪 How to Run It
 
-make
-./philo [number_of_philosophers] [time_to_die] [time_to_eat] [time_to_sleep] [optional_number_of_times_each_philosopher_must_eat]
+`make`
+`./philo [number_of_philosophers] [time_to_die] [time_to_eat] [time_to_sleep] [optional_number_of_times_each_philosopher_must_eat]`
 
 Example:
 
-./philo 5 800 200 200
+`./philo 5 800 200 200`
 
 "I eat, therefore I am." — Descartes, probably
 "To fork or not to fork." — Shakespeare, definitely not
